@@ -1,4 +1,4 @@
-🚀 BLASTER STORE | My Internship Submission
+🚀 BLASTER STORE | 
 Hey there! Thanks for checking out my project. Blaster Store is a premium, tech-focused e-commerce frontend I built for this skill assessment. My goal was to move beyond a "basic" store and create something that actually looks like a high-end brand—sleek, dark, and professional.
 
 🛠️ My Approach
